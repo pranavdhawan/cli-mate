@@ -4,6 +4,8 @@ This is a simple application that allows you to view the weather for a city. (in
 
 #### Installation
 
+(not yet published)
+
 ```bash
 npm install -g cli-mate 
 ```
