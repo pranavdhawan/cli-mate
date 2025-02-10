@@ -7,5 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bin": "bin/cli-mate",
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }
