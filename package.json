@@ -1,6 +1,6 @@
 {
   "name": "@killkennyale/cli-mate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI app to give you the weather forecast",
   "main": "index.js",
   "homepage": "https://github.com/pranavdhawan/cli-mate",
