@@ -5,7 +5,7 @@ This is a simple application that allows you to view the weather for a city. (in
 #### Installation
 
 ```bash
-npm install -g cli-mate 
+npm i @killkennyale/cli-mate
 ```
 
 #### Check today's weather
