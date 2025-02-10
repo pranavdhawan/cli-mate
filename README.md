@@ -12,5 +12,29 @@ npm install -g cli-mate
 
 #### Check today's weather
 ```bash
-cli-mate today
+cli-mate <command> [options]
+```
+#### Commands
+
+```bash
+# Get weather for London
+cli-mate today london
+
+# Alternative ways to specify location
+cli-mate today --location london
+cli-mate today -l london
+
+# Get 7 day forecast
+cli-mate forecast --location london
+cli-mate forecast -l london
+
+# Get help
+cli-mate help
+cli-mate --help
+cli-mate -h
+
+# Check version
+cli-mate version
+cli-mate --version
+cli-mate -v
 ```
