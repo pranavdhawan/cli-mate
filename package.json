@@ -10,6 +10,8 @@
   "bin": "bin/cli-mate",
   "description": "",
   "dependencies": {
-    "minimist": "^1.2.8"
+    "axios": "^1.7.9",
+    "minimist": "^1.2.8",
+    "ora": "^8.2.0"
   }
 }
